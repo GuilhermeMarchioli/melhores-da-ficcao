@@ -36,9 +36,22 @@ header h1 {
     margin-bottom: 15px;
 }
 
+main section {
+    padding: 20px;
+}
+
+section article p {
+    margin: 15px;
+    padding: 10px;
+    text-align: justify;
+    border: 3px cyan solid;
+    border-radius: 15px;
+}
+
 /* Sessões */
 
 section#Flash {
     background: url(imgs/backgrounds/speedster-wally-west.gif) no-repeat center center fixed;
     background-size: cover;
+    color: white;
 }
