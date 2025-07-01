@@ -127,7 +127,7 @@ section#Flash h2 {
 /* Ben 10 */
 
 section#Ben {
-    background: url(imgs/backgrounds/Alien-X.png) no-repeat right fixed;
+    background: url(imgs/backgrounds/Alien-X.png) no-repeat center fixed;
     background-size: cover;
     color: lightgreen;
 }
@@ -149,3 +149,53 @@ section#Ben h2 {
     text-shadow: 0px 0px 12px rgb(22, 87, 16);
     font-size: 2em;
 }
+
+/* Darkseid */
+section#Darkseid {
+    background: url(imgs/backgrounds/darkseid.png) no-repeat right fixed;
+    background-size: cover;
+    color: rgb(135, 179, 245);
+}
+
+section#Darkseid h1 {
+    color: rgb(240, 180, 103);
+    text-shadow: 0px 0px 12px red;
+    font-size: 2.3em;
+    text-align: center;
+}
+
+section#Darkseid p {
+    border: 3px solid rgb(135, 179, 245);
+    border-radius: 15px;
+}
+
+section#Darkseid h2 {
+color: rgb(253, 215, 165);
+    text-shadow: 0px 0px 12px red;
+    font-size: 2em;
+    text-align: center;
+}
+/* Kirby */
+section#Kirby {
+    background: url(imgs/backgrounds/kirby.png) no-repeat right fixed;
+    background-size: cover;
+    color: rgb(255, 190, 250);
+}
+
+section#Kirby  h1{
+    color: rgb(255, 73, 104);
+    text-shadow: 0px 0px 12px rgb(207, 83, 104);
+    font-size: 2.3em;
+}
+
+section#Kirby p {
+    border: 3px solid rgb(235, 104, 224);
+}
+
+section#Kirby h2 {
+    color: rgb(255, 73, 104);
+    text-shadow: 0px 0px 12px rgb(207, 83, 104);
+    font-size: 2.3em;
+}
+
+/* Arceus */
