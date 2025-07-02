@@ -19,6 +19,7 @@
 html, body {
     height: 100%;
     width: 100%;
+    background-color: black;
 }
 
 header {
@@ -195,7 +196,99 @@ section#Kirby p {
 section#Kirby h2 {
     color: rgb(255, 73, 104);
     text-shadow: 0px 0px 12px rgb(207, 83, 104);
-    font-size: 2.3em;
+    font-size: 2em;
 }
 
 /* Arceus */
+section#Arceus {
+    background: url(imgs/backgrounds/Arceus.png) no-repeat center fixed;
+    background-size: cover;
+    color: gold;
+}
+
+section#Arceus h1 {
+    color: rgb(255, 252, 79);
+    text-shadow: 0px 0px 12px rgb(182, 164, 9);
+    font-size: 2.3em;
+}
+
+section#Arceus p {
+    border: 3px solid ;
+}
+
+section#Arceus h2 {
+    color: rgb(255, 252, 79);
+    text-shadow: 0px 0px 12px rgb(182, 164, 9);
+    font-size: 2em;
+}
+
+/* Dr Manhatan */
+section#Manhatan {
+    background: url(imgs/backgrounds/manhatan.png) no-repeat right fixed;
+    background-size: cover;
+    color: rgb(80, 167, 201);
+}
+
+section#Manhatan h1 {
+    color: rgb(2, 2, 109);
+    text-shadow: 0px 0px 12px lightblue;
+    font-size: 2.3em;
+}
+
+section#Manhatan p {
+    border: 3px solid rgb(2, 2, 109);;
+}
+
+section#Manhatan h2 {
+    color: rgb(2, 2, 109);
+    text-shadow: 0px 0px 12px lightblue;
+    font-size: 2em;
+}
+
+/* Sentry*/
+section#Sentry {
+    background: url(imgs/backgrounds/Sentry.png) no-repeat right fixed;
+    background-size: cover;
+    color: rgb(224, 224, 72);
+}
+
+section#Sentry h1 {
+    color: rgb(192, 190, 42);
+    text-shadow: 0px 0px 12px yellow; 
+    font-size: 2.3em;
+}
+
+section#Sentry p {
+    border: 3px solid yellow;
+    border-radius: 15px;
+}
+
+section#Sentry h2 {
+    color: rgb(192, 190, 42);
+    text-shadow: 0px 0px 12px yellow; 
+    font-size: 2em;
+}
+
+/* Gunter */
+section#Gunter {
+    background: url(imgs/backgrounds/Gunter.png) no-repeat right fixed;
+    background-size: cover;
+    color: rgb(111, 233, 233);
+}
+
+section#Gunter h1 {
+    color: rgb(0, 204, 255);
+    text-shadow: 0px 0px 12px darkblue;
+    font-size: 2.3em;
+}
+
+section#Gunter p {
+    border: 3px solid cyan;
+    border-radius: 15px;
+}
+
+section#Gunter h2 {
+    color: rgb(0, 204, 255);
+    text-shadow: 0px 0px 12px darkblue;
+    font-size: 2em;
+}
