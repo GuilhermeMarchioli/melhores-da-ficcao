@@ -292,3 +292,38 @@ section#Gunter h2 {
     text-shadow: 0px 0px 12px darkblue;
     font-size: 2em;
 }
+
+/* Meninas super poderosas */
+section#MeninasSP {
+    background: url(imgs/backgrounds/MeninasSuperPoderosas.png) no-repeat right fixed;
+    background-size: cover;
+    color: rgb(235, 129, 203);
+
+}
+
+section#MeninasSP h1 {
+    color: rgb(251, 149, 255);
+    text-shadow: 0px 0px 12px lightpink;
+    font-size: 2.3em;
+}
+
+section#MeninasSP p {
+    border: 3px solid pink;
+}
+
+section#MeninasSP h2 {
+    color: rgb(251, 149, 255);
+    text-shadow: 0px 0px 12px lightpink;
+    font-size: 2em;
+}
+
+/* footer */
+footer {
+    padding: 25px;
+    color: white;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+}
